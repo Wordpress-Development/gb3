@@ -1,6 +1,0 @@
-# ignore all files starting with .
-\.*
-# include .gitignore (i.e. do NOT ignore)
-# !.gitignore
-# ignore Sparkleshare
-SparkleShare.txt
